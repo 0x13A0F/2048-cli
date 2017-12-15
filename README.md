@@ -1,5 +1,5 @@
-2048-cli
+<h1>2048-cli</h1>
 
-compile with 
+compile with
 
-gcc new.c funcs.c -o neww -lncurses -lm
+gcc main.c funcs.c -o game -lncurses -lm
